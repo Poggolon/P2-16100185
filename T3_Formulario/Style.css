@@ -1,0 +1,21 @@
+*{
+    border-style: border-box;
+    border: 0px;
+    padding: 0px;
+}
+
+.btn {
+    background-color: purple;
+    color: white;
+    padding: 12px 12px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+
+.container {
+    padding: 4px;
+}
+
+#box {
+    border: 0.8px solid;
+}
